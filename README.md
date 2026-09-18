@@ -20,6 +20,7 @@ Organized in the order the work happens: deciding what to write about comes firs
 - [Communities](#communities)
 - [Guides and Playbooks](#guides-and-playbooks)
 - [Books](#books)
+- [Related Lists](#related-lists)
 
 ## Finding What to Write About
 
@@ -152,6 +153,12 @@ The input layer. Everything below this section produces content; this section de
 - [Made to Stick](https://openlibrary.org/search?q=Made+to+Stick+Chip+Heath) - By Chip Heath and Dan Heath. Why some ideas survive and others die.
 - [Contagious](https://openlibrary.org/search?q=Contagious+Jonah+Berger) - By Jonah Berger. The science of why things catch on.
 - [The Content Fuel Framework](https://openlibrary.org/search?q=The+Content+Fuel+Framework+Melanie+Deziel) - By Melanie Deziel. A system for generating content ideas on demand.
+
+## Related Lists
+
+- [Competitive Intelligence](https://github.com/IntelCue/awesome-competitive-intelligence#readme) - Gathering and analyzing information about competitors and markets.
+- [Market Intelligence](https://github.com/IntelCue/awesome-market-intelligence#readme) - Understanding the size, direction and participants of a market.
+- [Personal Branding](https://github.com/IntelCue/awesome-personal-branding#readme) - Building a professional reputation by publishing consistently.
 
 ## Contributing
 
