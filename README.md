@@ -20,7 +20,6 @@ Organized in the order the work happens: deciding what to write about comes firs
 - [Communities](#communities)
 - [Guides and Playbooks](#guides-and-playbooks)
 - [Books](#books)
-- [Related Lists](#related-lists)
 
 ## Finding What to Write About
 
