@@ -75,6 +75,7 @@ The input layer. Everything below this section produces content; this section de
 ## Video and Audio
 
 - [Descript](https://www.descript.com) - Edit video and audio by editing the transcript.
+- [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 MP4 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 - [Riverside](https://riverside.com) - Remote recording in studio quality for podcasts and video.
 - [Loom](https://www.loom.com) - Quick screen and camera recordings.
 - [OBS Studio](https://obsproject.com) - Free, open-source recording and streaming.
