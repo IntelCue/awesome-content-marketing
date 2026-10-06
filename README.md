@@ -115,6 +115,7 @@ The input layer. Everything below this section produces content; this section de
 - [Trello](https://trello.com) - Kanban boards for a simple editorial pipeline.
 - [Asana](https://asana.com) - Project management for content teams with dependencies and timelines.
 - [CoSchedule](https://coschedule.com) - Marketing calendar built for content and campaign planning.
+- [NakupSladilcev Content Planner (Slovenian, XLSX)](https://nakupsladilcev.si/resources/sl/content-planner.xlsx) - Editable 30-slot content calendar with date, topic, format, message, evaluation and next-step fields.
 
 ## Analytics
 
