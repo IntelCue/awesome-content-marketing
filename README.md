@@ -87,6 +87,7 @@ The input layer. Everything below this section produces content; this section de
 - [Kit](https://kit.com) - Email marketing for creators with automations and a creator network.
 - [Mailchimp](https://mailchimp.com) - Established email platform with templates, audiences and automations.
 - [Buttondown](https://buttondown.com) - Minimal newsletter tool with Markdown and an API.
+- [Power CM Partners](https://partners.powercm-software.com/) - Affiliate campaign marketplace where publishers and software specialists can use tracked links and earn commissions on verified software sales.
 
 ## Publishing Platforms
 
