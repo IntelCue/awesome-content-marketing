@@ -56,6 +56,7 @@ The input layer. Everything below this section produces content; this section de
 - [Grammarly](https://www.grammarly.com) - Grammar, clarity and tone checks inside the tools you already write in.
 - [Hemingway Editor](https://hemingwayapp.com) - Free readability checker that flags long sentences and passive voice.
 - [Notion](https://www.notion.com) - Docs, wikis and databases; where many teams draft and keep the content calendar.
+- [WarmQuant](https://warmquant.com/) - Turns user-provided notes into editable English drafts with configurable author voice and target reader.
 
 ## Content Optimization
 
