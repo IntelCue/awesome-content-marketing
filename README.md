@@ -36,6 +36,7 @@ The input layer. Everything below this section produces content; this section de
 - [Google Alerts](https://www.google.com/alerts) - Free email alerts when a term appears in indexed news and pages.
 - [Hacker News](https://news.ycombinator.com) - What a technical audience is discussing today.
 - [Product Hunt](https://www.producthunt.com) - Daily launches, a steady source of things to react to.
+- [WeWorkBuddy](https://weworkbuddy.com/) - Source-linked AI-topic research workspace for creators, with private candidates, tasks, timestamped observations and exports.
 
 ## Keyword and Search Research
 
