@@ -27,6 +27,7 @@ The input layer. Everything below this section produces content; this section de
 
 - [IntelCue](https://www.intelcue.ai) - Monitors competitors and market sources (newsletters, blogs, news, ads, patents, filings, new subdomains) and turns what changed into weekly content opportunities with a draft attached.
 - [Google Trends](https://trends.google.com/trends/) - Free search interest over time and by region, with rising related queries.
+- [twtData X Trends](https://twtdata.com/twitter-trends/) - What is trending on X worldwide and by location, with past days to compare. Free, no login.
 - [Exploding Topics](https://explodingtopics.com) - Emerging trends detected across the web and curated by people to filter out fads.
 - [Glimpse](https://meetglimpse.com) - Search-based trend detection with volume, growth and channel breakdowns.
 - [BuzzSumo](https://buzzsumo.com) - What content already performed on a topic, who amplified it, and the questions audiences ask.
